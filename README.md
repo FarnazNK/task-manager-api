@@ -132,7 +132,7 @@ The project includes GitHub Actions workflows for:
 
 ## 👤 Author
 
-Farnaz NK - [@FarnazNK](https://github.com/FarnazNK)
+Farnaz Nasehi- [@FarnazNK](https://github.com/FarnazNK)
 
 ## 🙏 Acknowledgments
 
